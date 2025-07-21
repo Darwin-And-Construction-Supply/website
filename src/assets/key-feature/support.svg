@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="96"
+   height="104"
+   viewBox="0 0 96 104"
+   fill="none"
+   version="1.1"
+   id="svg624"
+   sodipodi:docname="support.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview626"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:zoom="3.8347987"
+     inkscape:cx="57.890913"
+     inkscape:cy="125.29993"
+     inkscape:window-width="1694"
+     inkscape:window-height="1387"
+     inkscape:window-x="1745"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg624" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M42.2089 0.999936H52.2C68.7537 0.999936 82.1731 14.4311 82.1731 30.9999V40.9999C82.1731 57.5682 68.7537 70.9998 52.2 70.9998H42.2089C25.6552 70.9998 12.2358 57.5682 12.2358 40.9999V30.9999C12.2358 14.4311 25.6552 0.999936 42.2089 0.999936Z"
+     fill="url(#paint1_linear)"
+     id="path593" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M60.2926 22.9994H37.1135C35.5198 22.9994 34.216 24.3037 34.216 25.8988V51.9988L40.0108 46.1988H60.2926C61.8862 46.1988 63.19 44.894 63.19 43.2988V25.8988C63.19 24.3037 61.8862 22.9994 60.2926 22.9994Z"
+     fill="#FEFAFC"
+     id="path595" />
+  <defs
+     id="defs622">
+    <filter
+       id="filter0_d"
+       x="0.227661"
+       y="9"
+       width="94.9524"
+       height="95"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood597" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         id="feColorMatrix599" />
+      <feOffset
+         dy="13"
+         id="feOffset601" />
+      <feGaussianBlur
+         stdDeviation="10.5"
+         id="feGaussianBlur603" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0.94902 0 0 0 0 0.501961 0 0 0 0 0.27451 0 0 0 0.3 0"
+         id="feColorMatrix605" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow"
+         id="feBlend607" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow"
+         result="shape"
+         id="feBlend609" />
+    </filter>
+    <linearGradient
+       id="paint0_linear"
+       x1="51.8354"
+       y1="102.635"
+       x2="106.842"
+       y2="39.4138"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#F80759"
+         id="stop612" />
+      <stop
+         offset="1"
+         stop-color="#BC4E9C"
+         id="stop614" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear"
+       x1="52.6129"
+       y1="113.413"
+       x2="124.622"
+       y2="30.6507"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#F46B45"
+         id="stop617"
+         offset="0"
+         style="stop-color:#5c6fdd;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#EEA849"
+         id="stop619"
+         style="stop-color:#6b88cc;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+</svg>

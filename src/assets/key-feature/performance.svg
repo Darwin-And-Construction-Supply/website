@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="96"
+   height="104"
+   viewBox="0 0 96 104"
+   fill="none"
+   version="1.1"
+   id="svg545"
+   sodipodi:docname="performance.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview547"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.8845664"
+     inkscape:cx="61.707715"
+     inkscape:cy="116.30864"
+     inkscape:window-width="1694"
+     inkscape:window-height="1387"
+     inkscape:window-x="51"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg545" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M42.9722 0.999936H52.9631C69.5168 0.999936 82.9362 14.4311 82.9362 30.9999V40.9999C82.9362 57.5682 69.5168 70.9998 52.9631 70.9998H42.9722C26.4185 70.9998 12.999 57.5682 12.999 40.9999V30.9999C12.999 14.4311 26.4185 0.999936 42.9722 0.999936Z"
+     fill="url(#paint1_linear)"
+     id="path514" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M56.908 31.0026C56.8164 30.7972 56.6193 30.6655 56.4021 30.6655H49.7861L56.3156 19.894C56.4244 19.7144 56.4311 19.487 56.3329 19.3015C56.2347 19.1144 56.047 18.9988 55.8437 18.9988H46.9107C46.6992 18.9988 46.5059 19.1236 46.411 19.3214L38.0363 36.8214C37.9498 37.0021 37.9593 37.2166 38.0608 37.3886C38.163 37.5607 38.3422 37.665 38.536 37.665H44.2772L38.0212 53.1891C37.9146 53.4547 38.0095 53.7623 38.2445 53.9133C38.3349 53.9703 38.4354 53.9988 38.5354 53.9988C38.6956 53.9988 38.8536 53.9268 38.9631 53.7918L56.8292 31.6252C56.9694 31.4515 56.9995 31.2085 56.908 31.0026Z"
+     fill="white"
+     id="path516" />
+  <defs
+     id="defs543">
+    <filter
+       id="filter0_d"
+       x="0.990112"
+       y="9"
+       width="94.9524"
+       height="95"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood518" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         id="feColorMatrix520" />
+      <feOffset
+         dy="13"
+         id="feOffset522" />
+      <feGaussianBlur
+         stdDeviation="10.5"
+         id="feGaussianBlur524" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0.898039 0 0 0 0 0.117647 0 0 0 0 0.435294 0 0 0 0.3 0"
+         id="feColorMatrix526" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow"
+         id="feBlend528" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow"
+         result="shape"
+         id="feBlend530" />
+    </filter>
+    <linearGradient
+       id="paint0_linear"
+       x1="52.5978"
+       y1="102.635"
+       x2="107.605"
+       y2="39.4138"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#F80759"
+         id="stop533" />
+      <stop
+         offset="1"
+         stop-color="#BC4E9C"
+         id="stop535" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear"
+       x1="53.3761"
+       y1="113.413"
+       x2="125.385"
+       y2="30.6507"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#F80759"
+         id="stop538"
+         offset="0"
+         style="stop-color:#2d45d2;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#BC4E9C"
+         id="stop540"
+         style="stop-color:#6a88cd;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+</svg>
